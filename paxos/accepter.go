@@ -1,6 +1,7 @@
 package paxos
 
 import (
+	"fmt"
 	"io/ioutil"
 	"net/http"
 	"net/url"
